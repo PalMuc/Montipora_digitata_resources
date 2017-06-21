@@ -1,6 +1,6 @@
 # *Montipora digitata* Resources
 
-This repository consolidates *omic* data from the coral *Montipora digitata* and aims at provided a central place where to store resources to facilitate the study this coral. 
+This repository consolidates *omic* data from the coral *Montipora digitata* and aims at provided a central place where to store resources to facilitate the study of this coral. 
 
 ## By using these data you agree to cite this repository and the papers describing how the dataset here stored were generated and analyzed.
 
